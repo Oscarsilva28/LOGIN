@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">base SQLite</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="Registrar">REGISTRAR</string>
+    <string name="Ingresar">INGRESAR</string>
+    <string name="olvidarPassword">¿Has olvidado tu Contraseña? Click Aqui</string>
+    <string name="Bienvenida">Una Experiencia Inolvidable!!!\n</string>
+    <string name="Editar">EDITAR USUARIO</string>
+    <string name="EdiUsuario">ACTUALIZAR</string>
+    <string name="Crear">CREAR</string>
+    <string name="Cancelar">CANCELAR</string>
+</resources>
